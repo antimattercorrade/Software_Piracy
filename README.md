@@ -1,4 +1,4 @@
-# Software_Piracy ⭐
+# Software Piracy ⭐
 
 The illegal use of software or software piracy as known more formally, is one
 of the most growing problems in computer science today. This paper examines
